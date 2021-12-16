@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@certusone/wormhole-sdk": "^0.1.4",
+    "bech32": "^1.1.4",
     "dotenv": "^10.0.0",
     "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.5.2",
     "web3": "^1.6.1",
     "web3-eth-accounts": "^1.6.1"
   }
